@@ -1,7 +1,7 @@
 {
   "name": "@slothfi/bank-sdk-extra",
   "license": "MIT",
-  "version": "1.3.7",
+  "version": "1.0.0",
   "description": "🛠 A specific SDK/toolkit for building applications on top of Defimons.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
