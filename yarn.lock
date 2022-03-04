@@ -1439,22 +1439,27 @@
   dependencies:
     type-detect "4.0.8"
 
-"@slothfi/bank-core@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/bank-core-1.0.0.tgz#e8782165488f05645be8a55006ee7e1a4b2ca8d7"
-  integrity sha512-gylmpKvgeViFVOpWh7fkYfHgBuis7efnRAWDrm4zvRnCRqD4kjHrbR/bysjDWseRORrSdnlbh3KI99ljEb9vbw==
+"@slothfi/bank-community-token-list@^2.5.0":
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-community-token-list/-/bank-community-token-list-2.5.0.tgz#3ce9e6be7f2268f5eaf76507995cd0b10c29fbbb"
+  integrity sha512-crpemaObHTC7sPm7QL0CzEXr1dK8Ad3x6JZ3vnaLpRykVdefcMQy27x4iajL/9mDmgrerRgTyMj6JFovDkOK0w==
+
+"@slothfi/bank-core@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-core/-/bank-core-1.0.3.tgz#8801b5dc42946cb79886fb07e168fb5eef061cdc"
+  integrity sha512-tLHNPL1R53y5Y4cEgdd8fbdJZo1ZM3r7KjtzIfxeauurG6+NjrLDFFrn5mXDjxW2kvkV78EGnHwjCrLQa1BfFg==
 
 "@slothfi/bank-default-token-list@^2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@slothfi/bank-default-token-list/-/bank-default-token-list-2.1.0.tgz#0096b7425dcb6f9f1f5cc4146398ed17cd82180d"
   integrity sha512-Jhr4fL6OXFIY4rrwlRgPljuNGGCwaxOeucXve3dJOVp4mogrlY01kKSDdMetnofH0c4A1CtMeesSwXFUDLb6XA==
 
-"@slothfi/bank-sdk@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@slothfi/bank-sdk/-/bank-sdk-1.0.5.tgz#38b3218228618d22e5d406c830483fa8fe9006f8"
-  integrity sha512-Te/AFbW3Aj+cTQP0TYDFU0m6mH7cOIdRU34+yV7H3z+QIoD267FnUR6BWeHf6Amejoh7N/ORpnonAAla3Bfsvg==
+"@slothfi/bank-sdk@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@slothfi/bank-sdk/-/bank-sdk-1.0.6.tgz#4bb6344b4574027e8d05f03f0a83a5dbaaf260f5"
+  integrity sha512-JJSAhPrC85e06Ob1/rPmNH8JiGBfvnH6r4Y7M3t/8rNNWBtKqrJUA9KaN4MwUaajauxAxCpClwiuPOnOWfqgYw==
   dependencies:
-    "@slothfi/bank-core" "^1.0.0"
+    "@slothfi/bank-core" "^1.0.3"
     big.js "^5.2.2"
     decimal.js-light "^2.5.0"
     jsbi "^3.1.1"
@@ -1661,11 +1666,6 @@
     lodash "^4.17.15"
     semver "^7.3.2"
     tsutils "^3.17.1"
-
-"@venomswap/community-token-list@^2.5.0":
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/@venomswap/community-token-list/-/community-token-list-2.5.0.tgz#ae43a2d3abb5e0475172ef9755ac3a174511652c"
-  integrity sha512-F4T6edG8X0uNOPo1gb6OSmx0pLw0Bia1Y0ZdfJJ4hzn3vXmHpPQvyulTZ9KSeU8UhL9MYJfZilNjetnCuhP2TA==
 
 abab@^2.0.0:
   version "2.0.5"

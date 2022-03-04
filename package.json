@@ -1,7 +1,7 @@
 {
   "name": "@slothfi/bank-sdk-extra",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "🛠 A specific SDK/toolkit for building applications on top of Defimons.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -28,9 +28,9 @@
     "@ethersproject/contracts": "^5.5.0",
     "@ethersproject/providers": "^5.5.2",
     "@ethersproject/solidity": "^5.5.0",
-    "@venomswap/community-token-list": "^2.5.0",
+    "@slothfi/bank-community-token-list": "^2.5.0",
     "@slothfi/bank-default-token-list": "^2.1.0",
-    "@slothfi/bank-sdk": "^1.0.5",
+    "@slothfi/bank-sdk": "^1.0.6",
     "lodash.random": "^3.2.0"
   },
   "devDependencies": {
