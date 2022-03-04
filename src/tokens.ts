@@ -1,5 +1,5 @@
 import DEFAULT_TOKEN_LIST from '@slothfi/bank-default-token-list'
-import COMMUNITY_TOKEN_LIST from '@venomswap/community-token-list'
+import COMMUNITY_TOKEN_LIST from '@slothfi/bank-community-token-list'
 import { ChainId, Token } from '@slothfi/bank-sdk'
 
 export interface TokenListToken {
